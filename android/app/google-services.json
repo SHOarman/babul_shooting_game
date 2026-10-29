@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "914149519447",
+    "project_id": "babul-games",
+    "storage_bucket": "babul-games.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914149519447:android:477971e2e8ee5a237cb312",
+        "android_client_info": {
+          "package_name": "com.example.popupgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914149519447-vsfqmlq2n3v8rqevhtbt915q216gi1d8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.popupgame",
+            "certificate_hash": "737a3d0a0137ec944cc3ba16fa4f9c0b9cfb6a8d"
+          }
+        },
+        {
+          "client_id": "914149519447-a9npjelc8f7fh8m60loiel9bl26iqvu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjZ8VhXfvZ9t6N6bTx75Oi5-MdxFWyAx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914149519447-a9npjelc8f7fh8m60loiel9bl26iqvu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
